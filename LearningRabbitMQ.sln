@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceA", "ServiceA\ServiceA.csproj", "{399EF226-BB4C-4286-B277-6E827934132E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceB", "ServiceB\ServiceB.csproj", "{7A311ABE-2FE8-425D-B10A-682E61CC8829}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBus", "EventBus\EventBus.csproj", "{C643F585-79C1-436A-BECE-055191021FD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{399EF226-BB4C-4286-B277-6E827934132E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399EF226-BB4C-4286-B277-6E827934132E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399EF226-BB4C-4286-B277-6E827934132E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399EF226-BB4C-4286-B277-6E827934132E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A311ABE-2FE8-425D-B10A-682E61CC8829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A311ABE-2FE8-425D-B10A-682E61CC8829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A311ABE-2FE8-425D-B10A-682E61CC8829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A311ABE-2FE8-425D-B10A-682E61CC8829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C643F585-79C1-436A-BECE-055191021FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C643F585-79C1-436A-BECE-055191021FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C643F585-79C1-436A-BECE-055191021FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C643F585-79C1-436A-BECE-055191021FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {037EAA9F-4EC8-4748-91AA-726E575FD162}
+	EndGlobalSection
+EndGlobal

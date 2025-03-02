@@ -1,0 +1,12 @@
+F:\DotnetLearning\LearningRabbitMQ\EventBus\obj\Debug\net8.0\EventBus.csproj.AssemblyReference.cache
+F:\DotnetLearning\LearningRabbitMQ\EventBus\obj\Debug\net8.0\EventBus.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotnetLearning\LearningRabbitMQ\EventBus\obj\Debug\net8.0\EventBus.AssemblyInfoInputs.cache
+F:\DotnetLearning\LearningRabbitMQ\EventBus\obj\Debug\net8.0\EventBus.AssemblyInfo.cs
+F:\DotnetLearning\LearningRabbitMQ\EventBus\obj\Debug\net8.0\EventBus.csproj.CoreCompileInputs.cache
+F:\DotnetLearning\LearningRabbitMQ\EventBus\bin\Debug\net8.0\EventBus.deps.json
+F:\DotnetLearning\LearningRabbitMQ\EventBus\bin\Debug\net8.0\EventBus.dll
+F:\DotnetLearning\LearningRabbitMQ\EventBus\bin\Debug\net8.0\EventBus.pdb
+F:\DotnetLearning\LearningRabbitMQ\EventBus\obj\Debug\net8.0\EventBus.dll
+F:\DotnetLearning\LearningRabbitMQ\EventBus\obj\Debug\net8.0\refint\EventBus.dll
+F:\DotnetLearning\LearningRabbitMQ\EventBus\obj\Debug\net8.0\EventBus.pdb
+F:\DotnetLearning\LearningRabbitMQ\EventBus\obj\Debug\net8.0\ref\EventBus.dll

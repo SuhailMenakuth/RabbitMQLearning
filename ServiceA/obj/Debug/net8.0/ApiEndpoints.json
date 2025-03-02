@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ServiceA.Controllers.NumberController",
+    "Method": "Post",
+    "RelativePath": "api/Number",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ServiceA.Controllers.NumberRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

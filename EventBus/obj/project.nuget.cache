@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wIqTNriSR8c=",
+  "success": true,
+  "projectFilePath": "F:\\DotnetLearning\\LearningRabbitMQ\\EventBus\\EventBus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.2\\microsoft.extensions.logging.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.2\\system.diagnostics.diagnosticsource.9.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
